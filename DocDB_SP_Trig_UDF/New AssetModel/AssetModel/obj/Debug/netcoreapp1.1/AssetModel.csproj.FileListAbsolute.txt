@@ -1,0 +1,7 @@
+E:\DocDB_SP_Trig_UDF\New AssetModel\AssetModel\bin\Debug\netcoreapp1.1\AssetModel.deps.json
+E:\DocDB_SP_Trig_UDF\New AssetModel\AssetModel\bin\Debug\netcoreapp1.1\AssetModel.dll
+E:\DocDB_SP_Trig_UDF\New AssetModel\AssetModel\bin\Debug\netcoreapp1.1\AssetModel.pdb
+E:\DocDB_SP_Trig_UDF\New AssetModel\AssetModel\obj\Debug\netcoreapp1.1\AssetModel.csprojResolveAssemblyReference.cache
+E:\DocDB_SP_Trig_UDF\New AssetModel\AssetModel\obj\Debug\netcoreapp1.1\AssetModel.AssemblyInfo.cs
+E:\DocDB_SP_Trig_UDF\New AssetModel\AssetModel\obj\Debug\netcoreapp1.1\AssetModel.dll
+E:\DocDB_SP_Trig_UDF\New AssetModel\AssetModel\obj\Debug\netcoreapp1.1\AssetModel.pdb
